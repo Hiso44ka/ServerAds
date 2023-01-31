@@ -5,14 +5,14 @@
 		  
         "BannerAd": "facebook",
         "InterstitialAd": "max",
-        "NativeAd": "facebook",
+        "NativeAd": "max",
 	      
 	      
 	"FirstBanner": "facebook",
         "MainBanner":  "facebook",
 	      
       	"InterBtn1": "max",
-        "InterBtn2": "facebook",
+        "InterBtn2": "max",
         "InterBtn3": "max",
         "InterBtn4": "max",
         "InterBtn5": "max",
