@@ -5,7 +5,7 @@
 		  
         "BannerAd": "facebook",
         "InterstitialAd": "max",
-        "NativeAd": "max",
+        "NativeAd": "facebook",
 	      
 	      
 	"FirstBanner": "facebook",
@@ -22,8 +22,8 @@
         "InterBtn9": "max",
         "InterBtn10": "max",
 
-       	"FirstNative": "max",
-        "MainNative": "max",
+       	"FirstNative": "facebook",
+        "MainNative": "facebook",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
